@@ -18,11 +18,14 @@ El proyecto consiste en implementar una función que **acceda a un archivo exter
 
 <br> 
 
-
+### Documentación:
 
 Si quieres ver la **documentación completa** del proyecto, puedes ver estos apuntes: <br> 
-https://42guideprojects.notion.site/Get-Next-Line-f8513f536df1483c93c8c058af938f1e
+[Documentación](https://42guideprojects.notion.site/Get-Next-Line-f8513f536df1483c93c8c058af938f1e)
 
 <br> 
+
+### Requerimientos:
+
 Si quieres leer los requerimientos del proyecto, puedes encontrarlos aquí: <br> 
-https://github.com/user-attachments/files/17881957/es.subject.pdf
+[Requerimientos](https://github.com/user-attachments/files/17881957/es.subject.pdf)
